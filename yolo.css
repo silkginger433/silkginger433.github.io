@@ -1,0 +1,14 @@
+body{text-align: center;
+    background-color: white
+}
+
+table, th, tr, td{ color:  pink;  
+    border-spacing: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    border-color: black;
+    border-style:solid
+}
+tr:nth-child(even){
+    background-color: white;
+}
